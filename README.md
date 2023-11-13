@@ -1,2 +1,3 @@
 # Equipe
-Descrição dos funcionários e suas habilidades.
+Usando o HTML para criar um simples formulário com dos dados dos membros de uma equipe.
+
